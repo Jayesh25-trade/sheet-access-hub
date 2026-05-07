@@ -12,9 +12,6 @@ export default defineConfig({
       deployment: {
         preset: "vercel",
       },
-      server: {
-        entry: "src/server.ts",
-      },
     }),
     react(),
     tailwindcss(),
