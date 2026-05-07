@@ -84,6 +84,7 @@
     "prettier": "^3.7.3",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.56.1",
+    "vinxi": "latest",
     "vite": "^7.0.0"
   }
 }
