@@ -9,9 +9,7 @@ export default defineConfig({
   plugins: [
     tanstackRouter(),
     tanstackStart({
-      deployment: {
-        preset: "vercel",
-      },
+      preset: "vercel",
     }),
     react(),
     tailwindcss(),
